@@ -3,5 +3,8 @@
 Belajar Slicing UI
 
 Home Screen
-![Simulator Screen Shot - iPhone 13 Pro Max - 2022-02-09 at 16 21 03](https://user-images.githubusercontent.com/62782158/153170545-589d44a9-c84b-4b7e-b545-a3f554055ea3.png | width: 200)
+![homescreen](https://user-images.githubusercontent.com/62782158/153171095-cd8bad74-8c2a-43a6-8993-e41d8518e6bb.png)
 
+
+Detail Screen
+![detailscreen](https://user-images.githubusercontent.com/62782158/153171057-b05cc934-1ae3-450a-9fcc-8678d6af0bbf.png)
