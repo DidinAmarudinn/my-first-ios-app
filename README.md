@@ -3,9 +3,6 @@
 Belajar Slicing UI
 
 Home Screen
-![Alt text](https://github.com/DidinAmarudinn/my-first-ios-app/blob/main/screenshoot/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20Max%20-%202022-02-09%20at%2016.21.03.png?raw=true "Home Screen")
+![home screen](https://user-images.githubusercontent.com/62782158/153170545-589d44a9-c84b-4b7e-b545-a3f554055ea3.png | width:200)
 
-
-Detail Screen
-![Alt text](https://github.com/DidinAmarudinn/my-first-ios-app/blob/main/screenshoot/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20Max%20-%202022-02-09%20at%2016.16.19.png?raw=true "Detail Screen")
 
